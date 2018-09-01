@@ -1,0 +1,18 @@
+simple-router/
+├── module-template
+│   ├── index.js
+│   ├── route
+│   │   ├── helloworld.js
+│   │   └── index.js
+│   ├── simple-router
+│   │   └── core.js
+│   └── view
+│       └── index-403.html
+├── prototype-template
+│   ├── index.js
+│   └── public
+│       ├── index.html
+│       └── test
+└── README.md
+
+7 directories, 8 files
